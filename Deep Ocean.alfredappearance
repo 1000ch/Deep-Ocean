@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#ADB1B6FF",
+        "font" : "System",
+        "color" : "#ADB1B6FF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#ADB1B6FF",
+        "font" : "System",
+        "color" : "#ADB1B6FF"
+      },
+      "backgroundSelected" : "#728ECA98",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#F9F8F4FF"
+      },
+      "iconPaddingHorizontal" : 8,
+      "paddingVertical" : 4,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 8,
+      "background" : "#FFFFFF00",
+      "spacing" : 8,
+      "text" : {
+        "size" : 32,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#F9F8F4FF"
+      },
+      "backgroundSelected" : "#C2F990FF"
+    },
+    "window" : {
+      "color" : "#06318998",
+      "paddingHorizontal" : 0,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 30,
+      "roundness" : 4,
+      "paddingVertical" : 8
+    },
+    "credit" : "1000ch",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#06318999",
+      "thickness" : 4
+    },
+    "name" : "Deep Ocean"
+  }
+}
